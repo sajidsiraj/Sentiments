@@ -1,3 +1,8 @@
+# This is a repository for sentiments analysis tutorial using KNIME.
+Our aim is to become familiar with workflow-based analytics and to performing some common data analytics tasks. We will be using KNIME Analytics software for this purpose. Once you are comfortable in using KNIME, you can easily migrate to any other workflow-based tool, for example, RapidMiner, SAS Analytics etc. 
+
+We used KNIME version 3.3, if you are downloading the latest version (3.5+), please ensure that you download all extensions (File Menu -> Install KNIME Extensions)
+
 # Sentiments
 This is a table compiled for those interested in perofrming sentiments analysis without worrying about pulling information from different sources. The table contains information on 
 
